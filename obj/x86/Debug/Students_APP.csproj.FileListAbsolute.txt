@@ -1,0 +1,9 @@
+C:\Users\Чук\source\repos\Students_APP\bin\x86\Debug\StudentsDB.mdf
+C:\Users\Чук\source\repos\Students_APP\bin\x86\Debug\StudentsDB_log.ldf
+C:\Users\Чук\source\repos\Students_APP\bin\x86\Debug\Students_APP.exe.config
+C:\Users\Чук\source\repos\Students_APP\bin\x86\Debug\Students_APP.exe
+C:\Users\Чук\source\repos\Students_APP\bin\x86\Debug\Students_APP.pdb
+C:\Users\Чук\source\repos\Students_APP\obj\x86\Debug\Students_APP.csprojAssemblyReference.cache
+C:\Users\Чук\source\repos\Students_APP\obj\x86\Debug\Students_APP.csproj.CoreCompileInputs.cache
+C:\Users\Чук\source\repos\Students_APP\obj\x86\Debug\Students_APP.exe
+C:\Users\Чук\source\repos\Students_APP\obj\x86\Debug\Students_APP.pdb
